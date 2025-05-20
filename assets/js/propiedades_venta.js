@@ -1,0 +1,46 @@
+export const propiedades_venta = [
+  {
+    nombre: 'Casa Moderna',
+    src: 'assets/img/casa-moderna_Venta.jpeg',
+    descripcion: 'Casa moderna con jardín y piscina.',
+    ubicacion: 'Santiago Centro',
+    habitaciones: 4,
+    baños: 5,
+    costo: 250000,
+    smoke: false,
+    pets: true,
+  },
+  {
+    nombre: 'Casa - Modelo Mediterráneo',
+    src: 'assets/img/venta.jpeg',
+    descripcion: 'Casa Modelo mediterráneo con piscina y amplio jardín.',
+    ubicacion: 'Providencia, Santiago',
+    habitaciones: 3,
+    baños: 3.5,
+    costo: 150000,
+    smoke: true,
+    pets: false,
+  },
+  {
+    nombre: 'Casa Familiar',
+    src: 'assets/img/venta3.jpeg',
+    descripcion: 'Ideal para familias grandes.',
+    ubicacion: 'La Florida, Santiago',
+    habitaciones: 6,
+    baños: 7,
+    costo: 300000,
+    smoke: true,
+    pets: true
+  },
+  {
+    nombre: 'casa acogedora',
+    src: 'assets/img/venta4.jpeg',
+    descripcion: 'Eficiente y funcional.',
+    ubicacion: 'Ñuñoa',
+    habitaciones: 3,
+    baños: 2,
+    costo: 100000,
+    smoke: false,
+    pets: false,
+  }
+];

@@ -17,3 +17,28 @@
 .card img{
     height: 250px;
 }
+
+body {
+  font-family: Arial, sans-serif;
+  line-height: 1.6;
+  margin: 20px;
+}
+
+nav a {
+  margin-right: 10px;
+  text-decoration: none;
+  color: blue;
+}
+
+.propiedad {
+  border: 1px solid #ccc;
+  padding: 10px;
+  margin-bottom: 20px;
+  max-width: 600px;
+}
+
+.propiedad img {
+  width: 100%;
+  height: auto;
+  margin-bottom: 10px;
+}
